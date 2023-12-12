@@ -5,15 +5,13 @@
 - 📺 常用编程语言 Golang, Rust, c++
 - 👁 专注研究 MySQL、TiDB、RocksDB
 
-### Contribution languages
+<h2></h2>
 
-<a href="https://happyuncle.vercel.app/widgets/contribution-most-used-languages" target="_blank">
-  <img src="https://happyuncle.vercel.app/widgets/contribution-most-used-languages/thumbnail.png" alt="Contribution languages" width="60%">
-</a>
+<br />
 
-### Contribution time distribution
+[![HappyUncle's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyUncle&show_icons=true&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://happyuncle.vercel.app/widgets/contribution-time-distribution" target="_blank">
-  <img src="https://happyuncle.vercel.app/widgets/contribution-time-distribution/thumbnail.png" alt="Contribution time distribution" width="60%">
-</a>
+<h2></h2>
+<br />
 
+![Visitor Count](https://profile-counter.glitch.me/HappyUncle/count.svg)
